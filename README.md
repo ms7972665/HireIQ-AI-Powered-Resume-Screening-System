@@ -164,7 +164,7 @@ When a candidate status is changed to **shortlisted**, the system automatically 
 
 ## 👩‍💻 Author
 
-**Indhumithra M**
+**Mamatha Sri S**
 
 BE Computer Science Engineering
 
